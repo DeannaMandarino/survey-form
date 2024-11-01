@@ -24,7 +24,7 @@ This project showcases a survey form with various input fields, including text, 
 ## How to Run
 
 1. Clone the repository to your local machine.
-2. Open `surveyForm.html` in your web browser.
+2. Open `index.html` in your web browser.
 
 ## Acknowledgments
 
